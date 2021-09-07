@@ -95,7 +95,7 @@ return [
 
     'search'            => [
         'enabled'       => false,
-        'default'       => 'algolia',
+        'default'       => 'internal',
         'engines'       => [
             'internal'  => [
                 'index' => ['h2', 'h3']
