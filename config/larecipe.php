@@ -16,7 +16,7 @@ return [
     'docs'        => [
         'route'   => '/docs',
         'path'    => '/resources/docs',
-        'landing' => 'overview',
+        'landing' => 'getting_started/overview',
         'middleware' => ['web'],
     ],
 
