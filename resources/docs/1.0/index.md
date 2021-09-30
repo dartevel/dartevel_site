@@ -6,8 +6,8 @@
     - [Deployment](/{{route}}/{{version}}/getting_started/deployment)
 
 - ## Architecture Concepts
-    - [Request Lifecycle](/{{route}}/{{version}}/concepts/overview)
-    - [ioC Container](/{{route}}/{{version}}/concepts/installation)
+    - [Request Lifecycle](/{{route}}/{{version}}/concepts/lifecycle)
+    - [ioC Container](/{{route}}/{{version}}/concepts/ioc_container)
 
 - ## Basics
     - [Router](/{{route}}/{{version}}/basics/router)
